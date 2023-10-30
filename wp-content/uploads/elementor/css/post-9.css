@@ -1,6 +1,6 @@
 .elementor-9 .elementor-element.elementor-element-2a73f06a:not(.elementor-motion-effects-element-type-background),
 .elementor-9 .elementor-element.elementor-element-2a73f06a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-2a73f06a {
@@ -53,43 +53,43 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav>li>a {
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 18px;
     letter-spacing: -0.5px;
-    color: #000000;
+    color: #fff;
     padding: 0px 15px 0px 15px;
 }
 
 .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav>li>a:hover {
-    color: #fc3404;
+    color: lightblue
 }
 
 .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav>li>a:focus {
-    color: #fc3404;
+    color: lightblue
 }
 
 .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav>li>a:active {
-    color: #fc3404;
+    color: lightblue
 }
 
 .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav>li:hover>a {
-    color: #fc3404;
+    color: lightblue
 }
 
 .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav>li:hover>a .elementskit-submenu-indicator {
-    color: #fc3404;
+    color: lightblue
 }
 
 .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav>li>a:hover .elementskit-submenu-indicator {
-    color: #fc3404;
+    color: lightblue
 }
 
 .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav>li>a:focus .elementskit-submenu-indicator {
-    color: #fc3404;
+    color: lightblue
 }
 
 .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav>li>a:active .elementskit-submenu-indicator {
-    color: #fc3404;
+    color: lightblue
 }
 
 .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav>li.current-menu-item>a {
@@ -105,7 +105,7 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav>li>a .elementskit-submenu-indicator {
-    color: #101010;
+    color: #fff;
 }
 
 .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav .elementskit-submenu-panel>li>a {
@@ -214,7 +214,7 @@
 
 .elementor-9 .elementor-element.elementor-element-b42dd90 .elementor-heading-title {
     color: #FFFFFF;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 70px;
     text-transform: uppercase;
     letter-spacing: -4.5px;
@@ -315,10 +315,13 @@
 .elementor-9 .elementor-element.elementor-element-06544dc {
     text-align: center;
 }
-
+@font-face {
+    font-family: em;
+    src: url(/happy_dance/Happy-Dance.ttf);
+}
 .elementor-9 .elementor-element.elementor-element-06544dc .elementor-heading-title {
-    color: #6f0023;
-    font-family: "Rammetto One", Sans-serif;
+    color: #00308f;
+    font-family: em;
     font-size: 70px;
     text-transform: uppercase;
     letter-spacing: -4.5px;
@@ -356,7 +359,7 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button .cretive-button-text {
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button i {
@@ -375,7 +378,7 @@
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
     border-color: #000000;
@@ -384,52 +387,52 @@
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--tamaya::before {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--tamaya::after {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--ujarak:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--wayra:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--rayen:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--pipaluk::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--wave:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--aylen::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--nuka::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--nuka::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--antiman::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--quidel::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button::before {
@@ -450,7 +453,7 @@
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button:hover {
     color: #2B2B2B;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-color: #1E1E1E;
 }
 
@@ -467,43 +470,43 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--ujarak::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--wayra:hover::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--tamaya:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--rayen::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--wave::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--wave:hover::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--aylen::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--saqui:hover {
-    color: #FFC0CB;
+    color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--nuka:hover::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--quidel:hover::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-5b5797f .eael-creative-button.eael-creative-button--wapasha::before {
@@ -530,7 +533,7 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button .cretive-button-text {
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button i {
@@ -549,7 +552,7 @@
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
     border-color: #000000;
@@ -558,52 +561,52 @@
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--tamaya::before {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--tamaya::after {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--ujarak:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--wayra:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--rayen:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--pipaluk::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--wave:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--aylen::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--nuka::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--nuka::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--antiman::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--quidel::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button::before {
@@ -624,7 +627,7 @@
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button:hover {
     color: #2B2B2B;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-color: #1E1E1E;
 }
 
@@ -641,43 +644,43 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--ujarak::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--wayra:hover::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--tamaya:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--rayen::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--wave::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--wave:hover::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--aylen::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--saqui:hover {
-    color: #FFC0CB;
+    color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--nuka:hover::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--quidel:hover::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-d48781c .eael-creative-button.eael-creative-button--wapasha::before {
@@ -795,7 +798,7 @@
 
 .elementor-9 .elementor-element.elementor-element-dc67f42 .elementor-icon-box-title,
 .elementor-9 .elementor-element.elementor-element-dc67f42 .elementor-icon-box-title a {
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 50px;
     font-weight: 400;
     text-transform: capitalize;
@@ -841,7 +844,7 @@
 
 .elementor-9 .elementor-element.elementor-element-0a2a080 .elementor-heading-title {
     color: #FFFFFF;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 70px;
     text-transform: uppercase;
     letter-spacing: -4.5px;
@@ -871,7 +874,7 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button .cretive-button-text {
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button i {
@@ -890,7 +893,7 @@
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
     border-color: #000000;
@@ -899,52 +902,52 @@
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--tamaya::before {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--tamaya::after {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--ujarak:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--wayra:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--rayen:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--pipaluk::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--wave:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--aylen::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--nuka::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--nuka::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--antiman::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--quidel::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button::before {
@@ -965,7 +968,7 @@
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button:hover {
     color: #2B2B2B;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-color: #1E1E1E;
 }
 
@@ -982,43 +985,43 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--ujarak::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--wayra:hover::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--tamaya:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--rayen::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--wave::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--wave:hover::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--aylen::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--saqui:hover {
-    color: #FFC0CB;
+    color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--nuka:hover::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--quidel:hover::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-9758440 .eael-creative-button.eael-creative-button--wapasha::before {
@@ -1053,8 +1056,8 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-a7bf880 .elementor-counter-number-wrapper {
-    color: #FFC0CB;
-    font-family: "Rammetto One", Sans-serif;
+    color: #00308f;
+    font-family: em;
     font-size: 47.83px;
     font-weight: 400;
     text-transform: capitalize;
@@ -1068,7 +1071,7 @@
 
 .elementor-9 .elementor-element.elementor-element-a7bf880 .elementor-counter-title {
     color: #FFFFFF;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 20px;
     font-weight: 400;
     line-height: 1.8em;
@@ -1090,8 +1093,8 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-0138012 .elementor-counter-number-wrapper {
-    color: #FFC0CB;
-    font-family: "Rammetto One", Sans-serif;
+    color: #00308f;
+    font-family: em;
     font-size: 47.83px;
     font-weight: 400;
     text-transform: capitalize;
@@ -1105,7 +1108,7 @@
 
 .elementor-9 .elementor-element.elementor-element-0138012 .elementor-counter-title {
     color: #FFFFFF;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 20px;
     font-weight: 400;
     line-height: 1.8em;
@@ -1178,8 +1181,8 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-a5724fc .elementor-heading-title {
-    color: #00C0E4;
-    font-family: "Rammetto One", Sans-serif;
+    color: #00308f;
+    font-family: em;
     font-size: 70px;
     text-transform: uppercase;
     letter-spacing: -4.5px;
@@ -1209,7 +1212,7 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button .cretive-button-text {
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button i {
@@ -1228,7 +1231,7 @@
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
     border-color: #000000;
@@ -1237,52 +1240,52 @@
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--tamaya::before {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--tamaya::after {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--ujarak:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--wayra:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--rayen:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--pipaluk::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--wave:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--aylen::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--nuka::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--nuka::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--antiman::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--quidel::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button::before {
@@ -1303,7 +1306,7 @@
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button:hover {
     color: #2B2B2B;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-color: #1E1E1E;
 }
 
@@ -1320,43 +1323,43 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--ujarak::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--wayra:hover::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--tamaya:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--rayen::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--wave::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--wave:hover::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--aylen::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--saqui:hover {
-    color: #FFC0CB;
+    color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--nuka:hover::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--quidel:hover::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-84998d6 .eael-creative-button.eael-creative-button--wapasha::before {
@@ -1431,7 +1434,7 @@
 
 .elementor-9 .elementor-element.elementor-element-5703c31 .elementor-icon-box-title,
 .elementor-9 .elementor-element.elementor-element-5703c31 .elementor-icon-box-title a {
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 50px;
     font-weight: 400;
     text-transform: capitalize;
@@ -1467,8 +1470,8 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-682e1d8 .elementor-counter-number-wrapper {
-    color: #FFC0CB;
-    font-family: "Rammetto One", Sans-serif;
+    color: #00308f;
+    font-family: em;
     font-size: 47.83px;
     font-weight: 400;
     text-transform: capitalize;
@@ -1482,7 +1485,7 @@
 
 .elementor-9 .elementor-element.elementor-element-682e1d8 .elementor-counter-title {
     color: #FFFFFF;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 20px;
     font-weight: 400;
     line-height: 1.8em;
@@ -1504,8 +1507,8 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-6c56ce5 .elementor-counter-number-wrapper {
-    color: #FFC0CB;
-    font-family: "Rammetto One", Sans-serif;
+    color: #00308f;
+    font-family: em;
     font-size: 47.83px;
     font-weight: 400;
     text-transform: capitalize;
@@ -1519,7 +1522,7 @@
 
 .elementor-9 .elementor-element.elementor-element-6c56ce5 .elementor-counter-title {
     color: #FFFFFF;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 20px;
     font-weight: 400;
     line-height: 1.8em;
@@ -1573,8 +1576,8 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-7b5872e .elementor-heading-title {
-    color: #00C0E4;
-    font-family: "Rammetto One", Sans-serif;
+    color: #00308f;
+    font-family: em;
     font-size: 70px;
     text-transform: uppercase;
     letter-spacing: -4.5px;
@@ -1628,13 +1631,13 @@
 
 .elementor-9 .elementor-element.elementor-element-fbf8317 .eael-elements-flip-box-front-container {
     align-items: center;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-radius: 20px 20px 20px 20px;
 }
 
 .elementor-9 .elementor-element.elementor-element-fbf8317 .eael-elements-flip-box-rear-container {
     align-items: center;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-radius: 20px 20px 20px 20px;
 }
 
@@ -1685,7 +1688,7 @@
 
 .elementor-9 .elementor-element.elementor-element-fbf8317 .eael-elements-flip-box-front-container .eael-elements-flip-box-heading {
     color: #000000;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 45px;
 }
 
@@ -1726,13 +1729,13 @@
 
 .elementor-9 .elementor-element.elementor-element-00b7376 .eael-elements-flip-box-front-container {
     align-items: center;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-radius: 20px 20px 20px 20px;
 }
 
 .elementor-9 .elementor-element.elementor-element-00b7376 .eael-elements-flip-box-rear-container {
     align-items: center;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-radius: 20px 20px 20px 20px;
 }
 
@@ -1783,7 +1786,7 @@
 
 .elementor-9 .elementor-element.elementor-element-00b7376 .eael-elements-flip-box-front-container .eael-elements-flip-box-heading {
     color: #000000;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 45px;
 }
 
@@ -1824,13 +1827,13 @@
 
 .elementor-9 .elementor-element.elementor-element-24bc63c .eael-elements-flip-box-front-container {
     align-items: center;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-radius: 20px 20px 20px 20px;
 }
 
 .elementor-9 .elementor-element.elementor-element-24bc63c .eael-elements-flip-box-rear-container {
     align-items: center;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-radius: 20px 20px 20px 20px;
 }
 
@@ -1881,7 +1884,7 @@
 
 .elementor-9 .elementor-element.elementor-element-24bc63c .eael-elements-flip-box-front-container .eael-elements-flip-box-heading {
     color: #000000;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 45px;
 }
 
@@ -1922,13 +1925,13 @@
 
 .elementor-9 .elementor-element.elementor-element-167ae52 .eael-elements-flip-box-front-container {
     align-items: center;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-radius: 20px 20px 20px 20px;
 }
 
 .elementor-9 .elementor-element.elementor-element-167ae52 .eael-elements-flip-box-rear-container {
     align-items: center;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-radius: 20px 20px 20px 20px;
 }
 
@@ -1979,7 +1982,7 @@
 
 .elementor-9 .elementor-element.elementor-element-167ae52 .eael-elements-flip-box-front-container .eael-elements-flip-box-heading {
     color: #000000;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 45px;
 }
 
@@ -2011,7 +2014,7 @@
 .elementor-9 .elementor-element.elementor-element-3c809f3 {
     border-style: solid;
     border-width: 3px 0px 3px 0px;
-    border-color: #FFC0CB;
+    border-color: #00308f;
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     padding: 35px 0px 35px 0px;
 }
@@ -2071,10 +2074,10 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-dfe6792 .mdp-crawler-elementor-ticker-item a {
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 137px;
     letter-spacing: -3.4px;
-    color: #FFC0CB !important;
+    color: #00308f !important;
     transition: color 0s, background 0s, box-shadow 0s, border-radius 0s, border 0s, filter 0s;
 }
 
@@ -2148,7 +2151,7 @@
 
 .elementor-9 .elementor-element.elementor-element-265ac3f6 .elementor-heading-title {
     color: #FFFFFF;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 22px;
     font-weight: 400;
     text-transform: capitalize;
@@ -2190,7 +2193,7 @@
 
 .elementor-9 .elementor-element.elementor-element-72d525c .elementor-heading-title {
     color: #fb3404;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 70px;
     text-transform: uppercase;
     letter-spacing: -4.5px;
@@ -2220,7 +2223,7 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button .cretive-button-text {
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button i {
@@ -2239,7 +2242,7 @@
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
     border-color: #000000;
@@ -2248,52 +2251,52 @@
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--tamaya::before {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--tamaya::after {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--ujarak:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--wayra:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--rayen:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--pipaluk::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--wave:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--aylen::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--nuka::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--nuka::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--antiman::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--quidel::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button::before {
@@ -2314,7 +2317,7 @@
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button:hover {
     color: #2B2B2B;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-color: #1E1E1E;
 }
 
@@ -2331,43 +2334,43 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--ujarak::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--wayra:hover::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--tamaya:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--rayen::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--wave::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--wave:hover::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--aylen::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--saqui:hover {
-    color: #FFC0CB;
+    color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--nuka:hover::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--quidel:hover::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-dc622aa .eael-creative-button.eael-creative-button--wapasha::before {
@@ -2428,7 +2431,7 @@
 
 .elementor-9 .elementor-element.elementor-element-927497b .elementor-heading-title {
     color: #FFFFFF;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 22px;
     font-weight: 400;
     text-transform: capitalize;
@@ -2484,7 +2487,7 @@
 
 .elementor-9 .elementor-element.elementor-element-cc22ca1 .elementor-heading-title {
     color: #fb3404;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 70px;
     text-transform: uppercase;
     letter-spacing: -4.5px;
@@ -2514,7 +2517,7 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button .cretive-button-text {
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button i {
@@ -2533,7 +2536,7 @@
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-style: solid;
     border-width: 3px 3px 3px 3px;
     border-color: #000000;
@@ -2542,52 +2545,52 @@
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--tamaya::before {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--tamaya::after {
     color: #000000;
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--ujarak:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--wayra:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--rayen:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--pipaluk::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--wave:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--aylen::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--nuka::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--nuka::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--antiman::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--quidel::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button::before {
@@ -2608,7 +2611,7 @@
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button:hover {
     color: #2B2B2B;
-    background-color: #FFC0CB;
+    background-color: #00308f;
     border-color: #1E1E1E;
 }
 
@@ -2625,43 +2628,43 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--ujarak::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--wayra:hover::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--tamaya:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--rayen::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--wave::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--wave:hover::before {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--aylen::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--saqui:hover {
-    color: #FFC0CB;
+    color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--nuka:hover::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--quidel:hover::after {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-e733eca .eael-creative-button.eael-creative-button--wapasha::before {
@@ -2722,7 +2725,7 @@
 
 .elementor-9 .elementor-element.elementor-element-823e5f0 .elementor-heading-title {
     color: #FFFFFF;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 22px;
     font-weight: 400;
     text-transform: capitalize;
@@ -2791,7 +2794,7 @@
 
 .elementor-9 .elementor-element.elementor-element-2f8ad87 .elementor-heading-title {
     color: #FFFFFF;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 22px;
     font-weight: 400;
     text-transform: capitalize;
@@ -2989,7 +2992,7 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-44215102 .elementor-social-icon {
-    background-color: #FFC0CB;
+    background-color: #00308f;
     --icon-padding: 0.5em;
     border-style: solid;
     border-width: 1px 2px 2px 1px;
@@ -3005,7 +3008,7 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-44215102 .elementor-social-icon:hover {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-44215102 .elementor-social-icon:hover i {
@@ -3047,7 +3050,7 @@
 
 .elementor-9 .elementor-element.elementor-element-1f082084:not(.elementor-motion-effects-element-type-background),
 .elementor-9 .elementor-element.elementor-element-1f082084>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #FFC0CB;
+    background-color: #00308f;
 }
 
 .elementor-9 .elementor-element.elementor-element-1f082084 {
@@ -3068,7 +3071,7 @@
 
 .elementor-9 .elementor-element.elementor-element-cba3397 .elementor-heading-title {
     color: #FFFFFF;
-    font-family: "Rammetto One", Sans-serif;
+    font-family: em;
     font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 0px;
@@ -3089,7 +3092,7 @@
         border-radius: 0px 0px 0px 0px;
     }
     .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav>li>a {
-        color: #000000;
+        color: #fff;
         padding: 10px 15px 10px 15px;
     }
     .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav .elementskit-submenu-panel>li>a {
@@ -3229,10 +3232,10 @@
         justify-content: center;
     }
     .elementor-9 .elementor-element.elementor-element-345302e .elementskit-menu-container {
-        background-color: #FFC0CB;
+        background-color: #00308f;
     }
     .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav>li>a {
-        color: #000000;
+        color: #fff;
     }
     .elementor-9 .elementor-element.elementor-element-345302e .elementskit-navbar-nav>li>a:hover {
         color: #fc2d04;
